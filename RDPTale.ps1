@@ -1,5 +1,4 @@
 ﻿
-#Author:Malak
 
 
 param (
