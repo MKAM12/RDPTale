@@ -8,4 +8,4 @@ simply just specify the evtx logs' path then enjoy reading the story
 ./RDPTale -AbsPath <Path to all evtx logs>
 ```
 
-Note: it will export all logs in seperate files to the same path.
+Note: it will export all logs in separate files to the same path.
