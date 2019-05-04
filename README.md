@@ -5,7 +5,7 @@ is a simple script used to tell RDP Story in a target machine starting from all 
 Simply just specify the evtx logs' path then enjoy reading the story
 
 ```
-./RDPTale -AbsPath <Path to all evtx logs>
+.\RDPTale -AbsPath <Path to all evtx logs>
 ```
 
 Note: it will export all logs in separate files to the same path.
